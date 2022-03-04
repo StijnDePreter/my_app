@@ -23,4 +23,4 @@ jobs:
       uses: actions/upload-artifact@v1.0.0
       with:
         name: my_app
-        path: my_app/bin/Release/net6.0/win-x64/publish/my_app
+        path: bin/Release/net6.0/win-x64/publish/my_app
